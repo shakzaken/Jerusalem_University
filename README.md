@@ -19,3 +19,6 @@ Technologies:
 •	JavaScript.
 •	CSS.
 •	MySql
+
+
+Author: Yakir zaken.
